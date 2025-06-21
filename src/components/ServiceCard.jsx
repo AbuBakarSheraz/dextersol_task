@@ -5,7 +5,7 @@ import KeyboardDoubleArrowRightIcon from '@mui/icons-material/KeyboardDoubleArro
 function ServiceCard() {
   return (
     <div >
-        <div className="lg:mt-[-50px] px-12 md:p-0">
+        <div className="lg:mt-[-50px] mt-6 px-12 md:p-0">
         <h1 className="text-lg md:text-xl text-center md:text-left  mb-2 md:mx-16 text-white">
           Seamless Solutions, Endless Possibilities
         </h1>
