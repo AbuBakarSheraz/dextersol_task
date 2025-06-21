@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import logo from '../assets/images/igs_logo.png';
-import rectangle from '../assets/icons/rectangle42.svg';
+import rectangle from '../assets/icons/Rectangle42.svg';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
