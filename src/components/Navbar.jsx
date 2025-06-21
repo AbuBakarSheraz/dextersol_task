@@ -170,7 +170,7 @@ function Navbar() {
               onClick={toggleStrategyDropdown}
               className="w-full text-left px-4 py-4 hover:bg-white/10 transition-colors duration-200 flex items-center justify-between"
             >
-              <span className="text-white font-bold font-poppins text-base">
+              <span className="text-white font-semibold font-poppins text-base">
                 <span className="text-[#F36434]">1IGS</span> SERVICES
               </span>
               <ArrowDropDownIcon 
